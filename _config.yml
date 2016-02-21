@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.651861
+  lightness: 0.485197
+  rhythmicContrast: 1
+  saturation: 0.889
+cta: {}
+layout_spectrum: 0.199836
+name: crxss
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.443257
